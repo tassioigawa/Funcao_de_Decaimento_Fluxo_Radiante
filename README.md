@@ -1,0 +1,1 @@
+# Funcao_de_Decaimento_Fluxo_Radiante
